@@ -1,7 +1,7 @@
 {
-  "name": "stocksense",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "Hackathon ",
+  "description": "",
   "license": "ISC",
   "author": "Keshav Sharma",
   "type": "commonjs",
